@@ -2,20 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/code-panda-x/myblog.git/posts/</loc>
-    <lastmod>2022-03-01T20:08:43-06:00</lastmod>
+    <loc>https://antevasin.xyz/categories/</loc>
   </url><url>
-    <loc>https://github.com/code-panda-x/myblog.git/posts/test/</loc>
-    <lastmod>2022-03-01T20:08:43-06:00</lastmod>
+    <loc>https://antevasin.xyz/tags/</loc>
   </url><url>
-    <loc>https://github.com/code-panda-x/myblog.git/</loc>
-    <lastmod>2022-03-01T20:08:43-06:00</lastmod>
-  </url><url>
-    <loc>https://github.com/code-panda-x/myblog.git/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</loc>
-    <lastmod>2022-03-01T19:41:54-06:00</lastmod>
-  </url><url>
-    <loc>https://github.com/code-panda-x/myblog.git/categories/</loc>
-  </url><url>
-    <loc>https://github.com/code-panda-x/myblog.git/tags/</loc>
+    <loc>https://antevasin.xyz/</loc>
   </url>
 </urlset>

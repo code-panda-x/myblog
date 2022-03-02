@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>边缘人</title>
-        <link>https://github.com/code-panda-x/myblog.git/</link>
+        <link>https://antevasin.xyz/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.93.0 https://gohugo.io/</generator>
         
@@ -21,58 +21,10 @@
             <webMaster>alexkehanmeng@gmail.com (Antevasin)</webMaster>
         
         
-        <lastBuildDate>Tue, 01 Mar 2022 20:11:28 -0600</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 20:36:15 -0600</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://github.com/code-panda-x/myblog.git/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://antevasin.xyz/rss.xml" />
         
-        
-            <item>
-                <title>Test</title>
-                <link>https://github.com/code-panda-x/myblog.git/posts/test/</link>
-                <guid isPermaLink="true">https://github.com/code-panda-x/myblog.git/posts/test/</guid>
-                <pubDate>Tue, 01 Mar 2022 20:08:38 -0600</pubDate>
-                
-                    <author>alexkehanmeng@gmail.com (Antevasin)</author>
-                
-                
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>人生的意义</title>
-                <link>https://github.com/code-panda-x/myblog.git/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</link>
-                <guid isPermaLink="true">https://github.com/code-panda-x/myblog.git/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/</guid>
-                <pubDate>Tue, 01 Mar 2022 19:37:00 -0600</pubDate>
-                
-                    <author>alexkehanmeng@gmail.com (Antevasin)</author>
-                
-                
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
