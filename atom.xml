@@ -4,16 +4,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">边缘人</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-03-01T20:36:15-06:00</updated>
-    <id>https://antevasin.xyz/</id>
-    <link rel="alternate" type="text/html" href="https://antevasin.xyz/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://antevasin.xyz/atom.xml" />
+    <updated>2022-03-26T17:29:39-05:00</updated>
+    <id>https://xpanda.me/</id>
+    <link rel="alternate" type="text/html" href="https://xpanda.me/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://xpanda.me/atom.xml" />
     <author>
             <name>Antevasin</name>
-            <uri>https://antevasin.xyz/</uri>
+            <uri>https://xpanda.me/</uri>
             
                 <email>alexkehanmeng@gmail.com</email>
             </author>
     
-    <generator uri="https://gohugo.io/" version="0.93.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.95.0">Hugo</generator>
 </feed>
