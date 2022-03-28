@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">边缘人</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-03-26T23:23:49-05:00</updated>
+    <updated>2022-03-27T22:06:39-05:00</updated>
     <id>https://xpanda.me/</id>
     <link rel="alternate" type="text/html" href="https://xpanda.me/" />
     <link rel="self" type="application/atom&#43;xml" href="https://xpanda.me/atom.xml" />
@@ -16,86 +16,6 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.95.0">Hugo</generator>
-        <entry>
-            <title type="text">关于我的博客</title>
-            <link rel="alternate" type="text/html" href="https://xpanda.me/posts/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/" />
-            <id>https://xpanda.me/posts/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2022-03-26T23:18:09-05:00</updated>
-            <published>2022-03-26T20:32:47-05:00</published>
-            <author>
-                    <name>边缘人</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>alexkehanmeng@gmail.com</email>
-                    </author>
-            <summary type="html">博客历程 折腾过Hexo，WordPress，最后还是选择了Hugo。 找主题是个痛苦的……</summary>
-            
-                <content type="html">&lt;h2 id=&#34;博客历程&#34;&gt;博客历程&lt;/h2&gt;
-&lt;p&gt;折腾过Hexo，WordPress，最后还是选择了Hugo。&lt;/p&gt;
-&lt;p&gt;找主题是个痛苦的过程，期间折腾了很久，不是 bug 太多，就是觉得主题不好看。最后在Hugo众多主题中选定&lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme&#34;&gt;meme&lt;/a&gt;和&lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt;作为主题。这两个主题功能强大，极简大方，满足了我对博客的一切幻想。&lt;/p&gt;
-&lt;h2 id=&#34;博客内容区分&#34;&gt;博客内容区分&lt;/h2&gt;
-&lt;p&gt;我的中文博客：&lt;a href=&#34;https://xpanda.me&#34;&gt;xpanda.me&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;宗旨：产出的内容服务于自己，用于自我剖析，总结，思考&lt;/p&gt;
-&lt;p&gt;面向：想要了解我的人，志趣相投的人&lt;/p&gt;
-&lt;p&gt;风格：文艺&lt;/p&gt;
-&lt;p&gt;内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;阅读&lt;/li&gt;
-&lt;li&gt;音乐&lt;/li&gt;
-&lt;li&gt;电影&lt;/li&gt;
-&lt;li&gt;哲学&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;我的双语博客：&lt;a href=&#34;https://pandax.me&#34;&gt;pandax.me&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;宗旨：产出对观看者有用的内容&lt;/p&gt;
-&lt;p&gt;面向：任何人&lt;/p&gt;
-&lt;p&gt;风格：技术，学习，提升&lt;/p&gt;
-&lt;p&gt;英文内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;技术博客&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;中文内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;生产力&lt;/li&gt;
-&lt;li&gt;学习&lt;/li&gt;
-&lt;li&gt;工作&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;写作原则&#34;&gt;写作原则&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;专注写作本身，而非折腾代码&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;一鼓作气完成写作，仔细检查修改&lt;/li&gt;
-&lt;li&gt;尽量避免回头修改&lt;/li&gt;
-&lt;li&gt;保持真实&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://xpanda.me/categories/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://xpanda.me/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
         <entry>
             <title type="text">人生的意义</title>
             <link rel="alternate" type="text/html" href="https://xpanda.me/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/" />
@@ -329,7 +249,7 @@
             <title type="text">人生的智慧</title>
             <link rel="alternate" type="text/html" href="https://xpanda.me/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%99%BA%E6%85%A7/" />
             <id>https://xpanda.me/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%99%BA%E6%85%A7/</id>
-            <updated>2022-03-26T17:37:38-05:00</updated>
+            <updated>2022-03-27T16:33:15-05:00</updated>
             <published>2021-12-31T20:57:26-06:00</published>
             <author>
                     <name>边缘人</name>
@@ -359,7 +279,7 @@
 &lt;p&gt;以上罗列了叔本华的主要观点，本书并没有对我的观念造成太大冲击，一方面因为很多观点被大量引用，我已经见过了；另一方面是我发自内心认同叔本华的观点，甚至可以说自己是他大部分观点的践行者了。唯一对我有所改观的是书的后半部分长篇幅对中世纪“骑士荣誉”的讽刺，这是我不了解的。&lt;/p&gt;
 &lt;p&gt;我用一句话总结本书的内容，追求幸福的关键在于：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;在不牺牲健康的前提下，不用过于在意别人的想法，不过分追求财富，而要追求精神上的满足，因为“自己”是幸福唯一真实且持久的来源，内在拥有的东西决定一个人的幸福与否。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;叔本华从日常生活来谈“人生的智慧”，也就是如何安排我们的生活，然后享受最大程度的快乐和成功，也可以称之为幸福论。本书所讨论的就是如何幸福度过一生，我认为这里有一个隐藏的前提，即：人们应当把幸福当做人生目标，想办法幸福度过一生。受很喜欢的一个教授 Jordan Peterson 影响，我对此持怀疑态度，因为“追求幸福”隐藏着诸多问题。首先，每个人的幸福是不同的，很多人至死都弄不清楚到底什么东西让他/她幸福快乐。其次，痛苦是人生的主旋律，那么在人们遭受苦难的时候他们的生活就失去意义了吗？对于人生的意义这样复杂的问题我还在摸索当中，在此不再展开。&lt;/p&gt;
+&lt;p&gt;叔本华从日常生活来谈“人生的智慧”，也就是如何安排我们的生活，然后享受最大程度的快乐和成功，也可以称之为幸福论。本书所讨论的就是如何幸福度过一生，我认为这里有一个隐藏的前提，即：人们应当把幸福当做人生目标，想办法幸福度过一生。受很喜欢的一个教授 Jordan Peterson 影响，我对此持怀疑态度，因为“追求幸福”隐藏着诸多问题。首先，每个人的幸福是不同的，很多人至死都弄不清楚到底什么东西让他/她幸福快乐。其次，痛苦是人生的主旋律，那么在人们遭受苦难的时候他们的生活就失去意义了吗？我专门写了&lt;a href=&#34;https://xpanda.me/posts/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/&#34;&gt;一篇博客&lt;/a&gt;讨论人生的意义，在此不再展开。&lt;/p&gt;
 &lt;p&gt;本书的大部分观点和我不谋而合，读起来很爽快，大概因为我就是那个独行者吧，难免与孤独一生的叔本华产生共鸣。可是有一个问题我搞不清楚，那就是到底是什么左右了人们在独处/闲暇时的行为？书中提到：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;正如我所说的，闲暇是生命存在的花儿，更确切地说，是存在的果实。只有闲暇可以让一个人完全拥有属于自己的时光。一个自身内在丰富多彩的人，在闲暇中才是最幸福的。看看大多数人如何消磨时光吧，这些没出息的“好人”，庸庸碌碌，甚至对自己而言都是个沉重的负担。&lt;/p&gt;
@@ -368,7 +288,7 @@
 &lt;p&gt;我想探索“人要么孤独，要么庸俗”中有的人“孤独”和有的人“庸俗”的背后原因，即不同人的&lt;strong&gt;精神需求&lt;/strong&gt;为何而不同。譬如给不同人同一段闲暇时光，有的人用这时间来阅读、冥想、锻炼，提升自己；有的人用这时间来打游戏，接受泛娱乐性的无用信息。当然每个人有每个人的活法，一个人想做什么是他的自由。可我始终想不明白这种精神需求的差异来源于哪里，&lt;/p&gt;
 &lt;p&gt;这其实是困扰我以久的一个问题。我想这和一个人天生的个性，即对一些事物的喜好有关。也与后天接受的教育，成长的环境息息相关。总之这是一个复杂的问题，也许未来某一天我会得到答案吧。&lt;/p&gt;
 &lt;p&gt;所幸我是前者，我的想法也很简单：一方面，不是我不想庸俗，而是目前我没什么朋友，没人和我庸俗。另一方面，既然这段时光我注定无法尽情庸俗放肆，那么不如做一些自认为有意义的事情，利用独处搞清楚自己的人生方向和意义。为此我必须做出一些尝试，付出一些代价，我的动力由此而来。&lt;/p&gt;
-&lt;p&gt;关于什么是“有意义的事”，独处时我的灵魂时时刻刻不在遭受内心的拷问：“我到底想要什么？”“什么样的人生之于我是有意义的？”对于这些问题，目前我还无法下定论，但也有了些眉目。唯一可以确定的是：&lt;strong&gt;我在长时间沉溺无营养的泛娱乐化网络信息后对自身无知平庸以及精神空虚的厌恶远超过了对提升自己所要面对的未知和对将要承受的痛苦所产生的恐惧&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;关于什么是“有意义的事”，独处时我的灵魂时时刻刻不在遭受内心的拷问：“我到底想要什么？”“什么样的人生之于我是有意义的？”对于这些问题，目前我还无法下定论，但也有了些眉目。&lt;/p&gt;
 &lt;p&gt;虽然目前还无法确信自己到底想要什么，但我至少了解自己不想要什么。即：&lt;strong&gt;我痛恨一个无知庸俗，精神空虚的自己&lt;/strong&gt;。我不想年复一年地徒增年岁却不长智慧，我不想后悔。为此我不应再选择逃避，我需要主动出击，靠自己摸索出属于自己的答案。&lt;/p&gt;
 &lt;p&gt;如书中所述，提升自己的精神境界是通往幸福的不二法门。我不敢奢求幸福，我只求在无聊和痛苦的钟摆中笃定一条属于自己的道路并且走下去，我的精神需求由此而来。而要提升自己的精神境界，目前对我而言最好的方法就是&lt;strong&gt;读书+反思+写作&lt;/strong&gt;。这也是这篇博客的由来。&lt;/p&gt;
 &lt;p&gt;人生的智慧隐匿于浩瀚书海，我也感到迷惘彷徨，怕真理无穷，自己无从下手。但我想，目前保持对知识的好奇，尽力养成读书的习惯就够了。进一寸有进一寸的欢喜，我希望在探索智慧的路上能走多远走多远。&lt;/p&gt;
@@ -478,7 +398,7 @@
             <title type="text">肆木公子</title>
             <link rel="alternate" type="text/html" href="https://xpanda.me/posts/%E8%82%86%E6%9C%A8%E5%85%AC%E5%AD%90/" />
             <id>https://xpanda.me/posts/%E8%82%86%E6%9C%A8%E5%85%AC%E5%AD%90/</id>
-            <updated>2022-03-26T20:43:02-05:00</updated>
+            <updated>2022-03-27T16:27:47-05:00</updated>
             <published>2021-12-13T20:18:43-06:00</published>
             <author>
                     <name>边缘人</name>
@@ -905,22 +825,24 @@
         </entry>
     
         <entry>
-            <title type="text">为什么我要写博客</title>
+            <title type="text">写博客的意义</title>
             <link rel="alternate" type="text/html" href="https://xpanda.me/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/" />
             <id>https://xpanda.me/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
-            <updated>2022-03-26T20:32:04-05:00</updated>
+            <updated>2022-03-27T15:22:31-05:00</updated>
             <published>2021-06-10T14:17:45-05:00</published>
             <author>
                     <name>边缘人</name>
                     <uri>https://io-oi.me/</uri>
                     <email>alexkehanmeng@gmail.com</email>
                     </author>
-            <summary type="html">2021 年的六月份，我决定开始写个人博客。 写博客，有点与这个短视频时代背道而驰的意思。有天……</summary>
+            <summary type="html">2021 年的六月份，我决定开始写个人博客。 写博客，有点与这个短视频时代背道而驰的意思。博客……</summary>
             
                 <content type="html">&lt;p&gt;2021 年的六月份，我决定开始写个人博客。&lt;/p&gt;
-&lt;p&gt;写博客，有点与这个短视频时代背道而驰的意思。有天我告诉了一个本科同学我搭好了个人博客，他一脸疑惑的问我为什么会有这种想法。&lt;/p&gt;
+&lt;p&gt;写博客，有点与这个短视频时代背道而驰的意思。博客时代早已过去，写博客完全是逆流而上。有天我告诉了一个本科同学我搭好了个人博客，他一脸疑惑的问我为什么会有这种想法。&lt;/p&gt;
 &lt;p&gt;至于为什么有这个念头呢？可能是某天我在网上冲浪，偶然间发现了一篇优秀的独立博客。上面有许多优质的文章，看得我津津有味。忽然间我也萌发出了写博客的想法。&lt;/p&gt;
-&lt;p&gt;如今博客时代早已过去，写博客完全是逆流而上。不过从一开始打算写文章我就没有追求流量的念头，所以就算写的文章无人问津也无所谓。目前我只想坚持不懈的写下去，先把内容累积起来。&lt;/p&gt;
+&lt;p&gt;有人会怀疑，你不是大牛，写的东西有谁会看呢？对于这个问题，我的回答是：&lt;/p&gt;
+&lt;p&gt;首先，正因为我是普通人，我在从头开始做一件事时会遇到各种各样的困难。我做的只是记录下我遇到的困难和我的解决方法。所以对绝大多数像我这样的普通人来说，这样的内容更具参考价值。天赋异禀的人往往会忽略普通人的困境，不能提供实际的解决问题的方法。&lt;/p&gt;
+&lt;p&gt;其次，从一开始写我就是为了自己而写，就算写的文章没人看也无所谓。目前我只想坚持不懈的写下去，先把内容累积起来。&lt;/p&gt;
 &lt;p&gt;目前只写了两三篇博客，我就喜欢上了写文章。甚至有些后悔，为什么不大一就开始写博客。直到如今大四毕业了才迟迟开始做如此有意义的事情。&lt;/p&gt;
 &lt;p&gt;为什么说博客非常有意义呢？在我看来，博客非常有意义，原因如下：&lt;/p&gt;
 &lt;ol&gt;
@@ -962,7 +884,7 @@
                             
                             
                             
-                                <category scheme="https://xpanda.me/categories/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
+                                <category scheme="https://xpanda.me/categories/%E6%84%8F%E4%B9%89%E4%B9%8B%E7%BD%91/" term="意义之网" label="意义之网" />
                             
                         
                     
